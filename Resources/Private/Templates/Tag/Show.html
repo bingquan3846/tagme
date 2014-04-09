@@ -1,0 +1,29 @@
+<f:layout name="Default" />
+
+This Template is responsible for displaying a single view for a domain object
+
+If you modify this template, do not forget to change the overwrite settings
+in /Configuration/ExtensionBuilder/settings.yaml:
+  Resources:
+    Private:
+      Templates:
+        Show.html: keep
+
+Otherwise your changes will be overwritten the next time you save the extension in the extension builder
+
+<f:section name="main">
+
+<f:flashMessages />
+<p><f:link.action action="list">Back to list</f:link.action><br /></p>
+<f:render partial="Tag/Properties" arguments="{tag:tag}" />
+
+    <f:for each="{posts}" as="post">
+        <p>
+            Time:{post.created}<br/>
+            Blog:<a href="http://{post.blog_name}.tumblr.com" target="blank">{post.blog_name}</a><br/>
+            Caption:<f:format.htmlentitiesDecode>{post.caption}</f:format.htmlentitiesDecode><br/>
+           <a href="{post.short_url}" target="_blank"> <img src="{post.photo}" width="200px" height="200px"/></a>
+        </p>
+    </f:for>
+
+</f:section>

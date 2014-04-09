@@ -1,0 +1,14 @@
+plugin.tx_tagme {
+	view {
+		# cat=plugin.tx_tagme/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:tagme/Resources/Private/Templates/
+		# cat=plugin.tx_tagme/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:tagme/Resources/Private/Partials/
+		# cat=plugin.tx_tagme/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:tagme/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_tagme//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

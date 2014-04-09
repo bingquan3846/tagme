@@ -1,0 +1,39 @@
+plugin.tx_tagme {
+	view {
+		templateRootPath = {$plugin.tx_tagme.view.templateRootPath}
+		partialRootPath = {$plugin.tx_tagme.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_tagme.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_tagme.persistence.storagePid}
+	}
+	features {
+		# uncomment the following line to enable the new Property Mapper.
+		# rewrittenPropertyMapper = 1
+	}
+}
+
+plugin.tx_tagme._CSS_DEFAULT_STYLE (
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-tagme table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-tagme table th {
+		font-weight:bold;
+	}
+
+	.tx-tagme table td {
+		vertical-align:top;
+	}
+)

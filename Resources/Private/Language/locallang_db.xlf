@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-02-28T09:48:23Z" product-name="tagme">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_tagme_domain_model_tag">
+				<source>Tag</source>
+			</trans-unit>
+			<trans-unit id="tx_tagme_domain_model_tag.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_tagme_domain_model_tag.counter">
+				<source>Counter</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>
