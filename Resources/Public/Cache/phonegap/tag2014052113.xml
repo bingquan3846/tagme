@@ -1,0 +1,162 @@
+<?xml version='1.0'?>
+<nss>
+	<item>
+                              <channel>nss</channel>
+                              <id>86202403606</id>
+                        <created>2014-05-19 11:17:00 GMT</created>
+                        <blog_name>sonifex</blog_name>
+                        <short_url>http://tmblr.co/ZKs0Zq1GI44iM</short_url>
+                        <caption><![CDATA[<h2>Hybrid VS Native Apps</h2>
+<p>Çok konuşulan bir konu mobil uygulama yazmak için ne kullanmalıyım.</p>
+<p>Hızlı çıksın, kolay yazılsın diyorsanız html5 sizi cezbedecektir.</p>
+<p><strong>Ne ki bu html5?</strong></p>
+<p>Bir zamanlar herkesin yazabildiği o html artık bildiğimiz html değil. Temeller gene aynı fakat üzerine eklenen güçlü özellikler bize birçok imkan sağlıyor.</p>
+<p>Mobil telefonların html5 desteği güçlendikçe hybrid app ler daha hızlı çalışıyor. Bu da bizi cezbediyor.</p>
+<p><u>Kullanılabilecek Frameworkler;</u></p>
+<p><a href="http://www.appcelerator.com/" target="_blank">Titanium Appcelerator</a>, <a href="http://phonegap.com/" target="_blank">Phonegap</a>, <a href="http://www.sencha.com/">Sencha</a><br/><br/><strong>Native ne peki?</strong></p>
+<p>ios Android veya WindowsPhone8 , herbiri ayrı bir platform ve bunlar için ayrı ayrı geliştirme ortamları, yazılım dilleri ve frameworkleri var.</p>
+<p>ios - Objective C<br/>Android - Java<br/>Windows Phone 8 - C#</p>
+<p><strong>Kısaca<br/></strong></p>
+<p>Her bir platform için ayrı bir dil öğrenmek yerine tek dil tek kodla işi bitirmek istiyorsanız hybrid tam size göre<br/><br/><strong>Kendi Deneyimlerim</strong></p>
+<p>Hybrid olarak phonegap ve titanium denemiş biri olarak. Küçük projeler için ideal görüyorum. Proje büyüdükçe kütüphanelerin desteği ya yetersiz kalıyor ya da uygulama yavaşlıyor ve performans kullanılabilirliği azaltıyor.<br/><br/>Eğer bu işi gerçekten istiyorsanız tavsiyem şudur ki native app herzaman candır. :) Performans dökümantasyon vs her biri ayrı güzel. </p>
+<p>Native app in tek dezavantajı bana göre öğrenme süresi. Bunu da çalışmanıza göre kısaltabilirsiniz.</p>
+
+<p><em>Bu konu hakkında daha detaylı bilgi için bir kaç tavsiye link;</em></p>
+<p><a href="https://developer.salesforce.com/page/Native,_HTML5,_or_Hybrid:_Understanding_Your_Mobile_Application_Development_Options">https://developer.salesforce.com/page/Native,_HTML5,_or_Hybrid:_Understanding_Your_Mobile_Application_Development_Options</a></p>
+<p><a href="http://www.nngroup.com/articles/mobile-native-apps/">http://www.nngroup.com/articles/mobile-native-apps/</a></p>
+<p><a href="http://www.webrazzi.com/2014/01/28/mobil-uygulama-gelistirici-native-hybrid/">http://www.webrazzi.com/2014/01/28/mobil-uygulama-gelistirici-native-hybrid/</a></p>
+<p>*Yukarıda ki resim Kaynak <a href="http://www.webrazzi.com/wp-content/uploads/2014/01/native-hybrid-web.jpg" target="_blank">webrazzi.com</a><br/><br/>Umarım faydalı olmuştur. Teşekkürler.</p>]]></caption>
+                        <note_count>0</note_count><photo>http://31.media.tumblr.com/c255cbacc00b4ba8b39b9f33f60cfc72/tumblr_n5tig9R8L41shuyz0o1_1280.jpg</photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>86118769982</id>
+                        <created>2014-05-18 16:29:45 GMT</created>
+                        <blog_name>terenceng</blog_name>
+                        <short_url>http://tmblr.co/ZZdahs1GD52K_</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>86116576487</id>
+                        <created>2014-05-18 16:04:45 GMT</created>
+                        <blog_name>terenceng</blog_name>
+                        <short_url>http://tmblr.co/ZZdahs1GCygpd</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>86086064592</id>
+                        <created>2014-05-18 07:08:18 GMT</created>
+                        <blog_name>terenceng</blog_name>
+                        <short_url>http://tmblr.co/ZZdahs1GB8HdG</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>85776611038</id>
+                        <created>2014-05-15 01:42:51 GMT</created>
+                        <blog_name>mluby</blog_name>
+                        <short_url>http://tmblr.co/ZNdltw1FuhpRU</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>85723750802</id>
+                        <created>2014-05-14 14:44:15 GMT</created>
+                        <blog_name>ondrejhomola</blog_name>
+                        <short_url>http://tmblr.co/Z3RKuw1FrYA6I</short_url>
+                        <caption><![CDATA[<p>Second Adobe Workshop I did. This time it was about Phonegap, how it make app development easier and how to publish app on Google Play Store ;)</p>]]></caption>
+                        <note_count>0</note_count><photo>http://31.media.tumblr.com/7f82a8faa0943eada42d4b5e96eb279c/tumblr_n5kjlrF1ea1r38odko1_1280.jpg</photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>85708759078</id>
+                        <created>2014-05-14 09:33:00 GMT</created>
+                        <blog_name>jasoning</blog_name>
+                        <short_url>http://tmblr.co/ZxQAJy1Fqe_0c</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>85506123858</id>
+                        <created>2014-05-12 06:42:00 GMT</created>
+                        <blog_name>lapizdigitalservices</blog_name>
+                        <short_url>http://tmblr.co/ZcrIGp1FeZ_XI</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>85316748830</id>
+                        <created>2014-05-10 14:32:34 GMT</created>
+                        <blog_name>dotnetkow</blog_name>
+                        <short_url>http://tmblr.co/Zz_Tfx1FTHaOU</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>85292032709</id>
+                        <created>2014-05-10 06:19:00 GMT</created>
+                        <blog_name>mrleongblog</blog_name>
+                        <short_url>http://tmblr.co/Z3eB-q1FRpIB5</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>85121503556</id>
+                        <created>2014-05-08 14:18:33 GMT</created>
+                        <blog_name>linuxjerson</blog_name>
+                        <short_url>http://tmblr.co/ZsBGeu1FHen54</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>85050983818</id>
+                        <created>2014-05-07 20:36:16 GMT</created>
+                        <blog_name>bookzing</blog_name>
+                        <short_url>http://tmblr.co/ZsDXxn1FDRmMA</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>84926260804</id>
+                        <created>2014-05-06 14:58:00 GMT</created>
+                        <blog_name>agence-ecommerce-webpulser</blog_name>
+                        <short_url>http://tmblr.co/Zq3els1F5-_P4</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>84907730859</id>
+                        <created>2014-05-06 08:00:09 GMT</created>
+                        <blog_name>shadowkris</blog_name>
+                        <short_url>http://tmblr.co/ZMerby1F4vIUh</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>84604658462</id>
+                        <created>2014-05-03 10:40:00 GMT</created>
+                        <blog_name>keckclip</blog_name>
+                        <short_url>http://tmblr.co/Zhpfho1EorACU</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>84465497773</id>
+                        <created>2014-05-01 23:15:15 GMT</created>
+                        <blog_name>matthewadavid</blog_name>
+                        <short_url>http://tmblr.co/ZMuvfx1EgYJQj</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>84419005277</id>
+                        <created>2014-05-01 13:00:36 GMT</created>
+                        <blog_name>dotnetkow</blog_name>
+                        <short_url>http://tmblr.co/Zz_Tfx1EdmyjT</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>84176598823</id>
+                        <created>2014-04-29 00:46:11 GMT</created>
+                        <blog_name>apk-s</blog_name>
+                        <short_url>http://tmblr.co/ZF7a6o1EPKFSd</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>84176058540</id>
+                        <created>2014-04-29 00:40:19 GMT</created>
+                        <blog_name>dotnetkow</blog_name>
+                        <short_url>http://tmblr.co/Zz_Tfx1EPIBYi</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item>	<item>
+                              <channel>nss</channel>
+                              <id>83930445627</id>
+                        <created>2014-04-26 17:32:07 GMT</created>
+                        <blog_name>aspiringcharm</blog_name>
+                        <short_url>http://tmblr.co/Z5_s8t1EAfFSx</short_url>
+                        <caption><![CDATA[]]></caption>
+                        <note_count>0</note_count><photo></photo></item></nss>

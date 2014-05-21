@@ -65,7 +65,7 @@ class TagController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController {
         $before = strtotime("-10 days");
         //var_dump($before);die;
 
-        $url = "http://api.tumblr.com/v2/tagged?tag=tagkey&before=$before&api_key=FWLNCaW9vTiZtthwrlU75oQzuUxz8kwLfpJsEavQgvryGGlVb8&limit=200&offset=2";
+        $url = "http://api.tumblr.com/v2/tagged?tag=tagkey&api_key=FWLNCaW9vTiZtthwrlU75oQzuUxz8kwLfpJsEavQgvryGGlVb8&limit=20&offset=2";
         $dataHandler = \TYPO3\CMS\Core\Utility\GeneralUtility::makeInstance("\TYPO3\Tagme\Service\DataHandler",$url,$tag->getName(),array('tagkey'=>$tag->getName()));
         if(0)
         $dataHandler->saveCache();
