@@ -70,10 +70,14 @@ Class DataHandler implements  \TYPO3\CMS\Core\SingletonInterface {
      * @return mixed
      */
     public function readXml(){
+        $url = $this->url;
 
         for($i=0; $i < 10 ; $i++){
-            $day = $i * 2;
+            $day = $i * 5;
+            $this->url = $url;
             $time = date("YmdH",strtotime("-$day days")) ;
+            $this->url = $this->url . '&before='.strtotime("-$day days");
+            //print_r($this->url);
             if(!file_exists($this->cache_folder . '/' . $this->tag . '/tag' . $time . '.xml')){
                 $this->saveCache($time);
             }
